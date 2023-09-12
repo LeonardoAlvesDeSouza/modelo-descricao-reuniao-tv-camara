@@ -29,5 +29,6 @@ Esse é um modelo de padrão desenvolvido para a TV Câmara de Espera Feliz - MG
 ### tags:
 [ao vivo / gravado] [cidade] [UF] [representatividade da instituição]
 
-## Youtube channel:
-[TV Câmara de Espera Feliz - MG](https://www.youtube.com/tvcamaraesperafelizmg "TV Câmara de Espera Feliz - MG")
+## Channels:
+Youtube: [TV Câmara de Espera Feliz - MG](https://www.youtube.com/tvcamaraesperafelizmg "TV Câmara de Espera Feliz - MG")
+Facebook: [camaraefeliz]("https://www.facebook.com/camaraefeliz)
