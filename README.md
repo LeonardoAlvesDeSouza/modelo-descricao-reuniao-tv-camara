@@ -7,9 +7,12 @@ Esse é um modelo de padrão desenvolvido para a TV Câmara de Espera Feliz - MG
 ## Descrição:
 [descritivo da reunião ou reuniões]
 
-### redes sociais
+### redes sociais:
 📢Participe das atividades da Câmara através das redes sociais:
 [link das redes sociais]
 
-### tags
+### tags:
 [ao vivo / gravado] [cidade] [UF] [representatividade da instituição]
+
+### Youtube channel:
+<a href="https://www.youtube.com/tvcamaraesperafelizmg">TV Câmara de Espera Feliz - MG</a>
