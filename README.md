@@ -18,7 +18,7 @@ Esse é um modelo de padrão desenvolvido para a TV Câmara de Espera Feliz - MG
 🗣 usem o chat para comentar sobre a transmissão, mas em caso de dúvidas, reclamações ou manifestações que necessitem de resposta, falem com a Ouvidoria da Câmara Municipal:<br>
 [link de ouvidoria]
 
-### incrição no canal para notificações
+### inscrição no canal para notificações
 ✅ Inscreva-se no canal e fique por dentro das transmissões e eventos:<br>
 [link automático de inscrição no canal]
 
