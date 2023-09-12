@@ -3,3 +3,13 @@ Esse é um modelo de padrão desenvolvido para a TV Câmara de Espera Feliz - MG
 
 ## Título:
 [número da reunião] [tipo de reunião] [número da sessão legislativa] [número da legislatura]
+
+## Descrição:
+[descritivo da reunião ou reuniões]
+
+### redes sociais
+📢Participe das atividades da Câmara através das redes sociais:
+[link das redes sociais]
+
+### tags
+[ao vivo / gravado] [cidade] [UF] [representatividade da instituição]
