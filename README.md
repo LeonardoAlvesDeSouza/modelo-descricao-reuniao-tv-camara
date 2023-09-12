@@ -37,9 +37,11 @@
 ```
 
 ### tags:
+```
 [ao vivo / gravado] [cidade] [UF] [representatividade da instituição]
+```
 
 ## Channels:
-Youtube: [TV Câmara de Espera Feliz - MG](https://www.youtube.com/tvcamaraesperafelizmg "TV Câmara de Espera Feliz - MG")<br>
-Facebook: [Página da Câmara](https://www.facebook.com/camaraefeliz "camaraefeliz")<br>
-Portal oficial: [Página da TV Câmara](https://www.esperafeliz.mg.leg.br/transparencia/tv-camara "TV CÂMARA")<br>
+Youtube: [TV Câmara de Espera Feliz - MG](https://www.youtube.com/tvcamaraesperafelizmg "TV Câmara de Espera Feliz - MG")</br>
+Facebook: [Página da Câmara](https://www.facebook.com/camaraefeliz "camaraefeliz")</br>
+Portal oficial: [Página da TV Câmara](https://www.esperafeliz.mg.leg.br/transparencia/tv-camara "TV CÂMARA")</br>
