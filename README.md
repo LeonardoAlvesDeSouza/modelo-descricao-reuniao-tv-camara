@@ -15,4 +15,4 @@ Esse é um modelo de padrão desenvolvido para a TV Câmara de Espera Feliz - MG
 [ao vivo / gravado] [cidade] [UF] [representatividade da instituição]
 
 ### Youtube channel:
-<a href="https://www.youtube.com/tvcamaraesperafelizmg">TV Câmara de Espera Feliz - MG</a>
+<a href="https://www.youtube.com/tvcamaraesperafelizmg" target="_blank">TV Câmara de Espera Feliz - MG</a>
