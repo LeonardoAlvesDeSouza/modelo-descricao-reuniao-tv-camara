@@ -5,7 +5,7 @@
 
 ## Título:
 ```
-[número da reunião] [tipo de reunião] [número da sessão legislativa] [número da legislatura]
+[número da reunião] [tipo de reunião] [número da sessão legislativa] [número da legislatura] [data da reunião]
 ```
 ## Descrição:
 ```
